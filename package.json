@@ -1,6 +1,7 @@
 
   {
       "name": "Interactive Personal Profile Page",
+      "homepage": "https://sheldon5006.github.io/Interactive-Personal-Profile-Page/",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
